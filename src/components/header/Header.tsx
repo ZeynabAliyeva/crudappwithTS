@@ -16,6 +16,9 @@ const Header = () => {
 						<li>
 							<Link to={'/categories'}>Categories</Link>
 						</li>
+						<li>
+							<Link to={'/queryCategories'}>QueryCategories</Link>
+						</li>
 					</ul>
 				</nav>
 			</div>
